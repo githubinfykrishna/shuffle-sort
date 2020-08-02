@@ -1,0 +1,77 @@
+html,body{margin:0;}
+
+.w100{width:100%;}
+
+.w1{width:1%;}
+
+.w99{width:99%;}
+
+.hide{visibility:hidden;}
+
+.w80{width:80%;}
+
+.w20{width:20%;}
+
+.floatL{float:left;}
+
+.fontweight{font-weight:bold;color:#000000;}
+
+.text-center{text-align:center;}
+
+.text-right{text-align:right;}
+
+.h50{height:50px;line-height:50px;}
+
+.shuffleBtn, .sortBtn{
+
+    color: #FFFFFF;
+
+                padding: 10px;
+
+    background: #72C3DC;
+
+    text-transform: uppercase;
+
+    cursor: pointer;
+
+    width: 200px;
+
+                border: 1px solid #72C3DC;
+
+    border-radius: 5px;
+
+    margin-bottom: 10px;
+
+    border-bottom: 3px solid #2B8EAD;}
+
+.w33{width:33.3%;height:195px;float:left;display:table;}
+
+.bg1,.bg8{background-color:#6F98A8;display:table-cell;color:white;font-size:6rem;vertical-align:middle;text-align:center;font-family: "Lucida Console", Courier, monospace;}
+
+.bg2,.bg4{background-color:#2B8EAD;display:table-cell;color:white;font-size:6rem;vertical-align:middle;text-align:center;font-family: "Lucida Console", Courier, monospace;}
+
+.bg3,.bg5,.bg9{background-color:#333333;display:table-cell;color:white;font-size:6rem;vertical-align:middle;text-align:center;font-family: "Lucida Console", Courier, monospace;}
+
+.bg6,.bg7{background-color:#BFBFBF;display:table-cell;color:white;font-size:6rem;vertical-align:middle;text-align:center;font-family: "Lucida Console", Courier, monospace;}
+
+.bgmob1,.bgmob8{background-color:#6F98A8;}
+
+.bgmob2,.bgmob4{background-color:#2B8EAD;}
+
+.bgmob3,.bgmob5,.bgmob9{background-color:#333333;}
+
+.bgmob6,.bgmob7{background-color:#BFBFBF;}
+
+.mobhead{color: #FFFFFF;text-align: center; background: #333333; height: 50px;}
+
+.hght50{height:50px;}  
+
+.bgmobright{background: #EFEFEF; text-align:center;line-height:50px;}
+
+.w95{width:95%;}
+
+.marb10{margin-bottom:10px;}
+
+.mart10{margin-top:10px;}
+
+.font{font-size:16px;}
